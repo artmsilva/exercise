@@ -5,12 +5,12 @@ import getArticle from "../api/getArticle";
 /*
 Instructions: 
 
-getArticle is a function that returns a promise that resolves to an array containing content elements!
+"getArticle" is a function that returns a promise that resolves to an array containing content for an article.
 
-all of these content elements are of type text.  Build a simple view that shows these context elements
+Each of these content elements are of type "text".  Build a simple view that shows these content elements
 using markup that is as semantic as possible.
 
-Start simple. just render the elements with little or no style and iterate!
+Start simple. Just render the elements with little or no style and iterate!
 */
 
 import "@washingtonpost/site-components/css/index.css";
@@ -19,7 +19,7 @@ class Article extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      articleContent: null
+      articleContent: []
     };
   }
   componentDidMount() {
@@ -32,7 +32,6 @@ class Article extends React.Component {
         {/* HINT: something needs to go here!! */}
       </React.Fragment>
     );
-    // Render something!!
   }
 }
 
