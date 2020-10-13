@@ -25,7 +25,6 @@ class Article extends React.Component {
   render() {
     return (
       <React.Fragment>
-        <Nav />
         {/* HINT: something needs to go here!! */}
       </React.Fragment>
     );
