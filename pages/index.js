@@ -1,5 +1,4 @@
 import React from "react";
-import Nav from "../components/nav";
 import getArticle from "../api/getArticle";
 
 /*
@@ -12,8 +11,6 @@ using markup that is as semantic as possible.
 
 Start simple. Just render the elements with little or no style and iterate!
 */
-
-import "@washingtonpost/site-components/css/index.css";
 
 class Article extends React.Component {
   constructor(props) {
