@@ -1,5 +1,6 @@
 /**
  * getArticleContent is a function that returns a promise that resolves to an array containing content for an article.
+ * Each of the objects in the array map to markup.
  * @returns {Promise}
  */
 export const getArticleContent = () => {

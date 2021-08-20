@@ -2,9 +2,7 @@
 
 This is an open ended and open book problem. We encourage you to ask questions.
 
-Create an article page from data fetched from the `getArticleContent` function in `./api/article.js`
-
-Each of the objects in the array map to markup.
+Create an article page from data fetched from the `getArticleContent` function in `./api/article.js`.
 
 ```json
 // example of an object in the array
@@ -16,12 +14,12 @@ Each of the objects in the array map to markup.
 }
 ```
 
-Tasks
+## Tasks
 
 - [ ] Fetch data from mocked promise
 - [ ] Render content onto page using components
 - [ ] Use as much semantic markup as possible
 
-Stretch Goals
+## Stretch Goals
 
 - [ ] Style your article using the washingtonpost.com website as inspiration
