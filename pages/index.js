@@ -5,7 +5,7 @@ import { getArticleContent } from "../api/article";
  * @returns
  */
 function IndexPage() {
-  return <h1>This placeholder content. It can be removed.</h1>;
+  return <h1>This is placeholder content. It can be removed.</h1>;
 }
 
 export default IndexPage;
