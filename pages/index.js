@@ -1,5 +1,3 @@
-import { getArticleContent } from "../api/article";
-
 /**
  * Index Page
  * @returns
