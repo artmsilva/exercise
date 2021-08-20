@@ -10,6 +10,6 @@ Create an article page from data fetched from the `getArticleContent` function i
 - [ ] Render content onto page using components
 - [ ] Use as much semantic markup as possible
 
-## Stretch Goals
+## Stretch Tasks
 
 - [ ] Style your article using the branding from the [https://washingtonpost.com](washingtonpost.com) as inspiration
