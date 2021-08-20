@@ -2,7 +2,7 @@
  * Mock data from the Article API
  * @returns Promise
  */
-export const getArticl = () => {
+export const getArticle = () => {
   return Promise.resolve([
     {
       _id: "O23JTX787658I7CD6U3235ENM",
