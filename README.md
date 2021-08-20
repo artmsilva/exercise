@@ -12,4 +12,4 @@ Create an article page from data fetched from the `getArticleContent` function i
 
 ## Stretch Goals
 
-- [ ] Style your article using the washingtonpost.com website as inspiration
+- [ ] Style your article using an Article from the [https://washingtonpost.com](washingtonpost.com) as inspiration
