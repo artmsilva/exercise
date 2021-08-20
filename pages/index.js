@@ -1,4 +1,4 @@
-import { getArticleByUrl } from "../api/article";
+import { getArticle } from "../api/article";
 
 /**
  * Index Page
